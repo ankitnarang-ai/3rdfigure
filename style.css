@@ -70,8 +70,7 @@
     background-position: 0% 0%, 0% 100%, 100% 0%, 100% 100%;
     background-repeat: no-repeat;
     border-radius: 100%;
-    top:40%;
-    left:40%;
+   margin:190px 0 0 307px;
     position: absolute;
     transform: rotate(45deg);
     box-shadow: 0 0 0 1px rgb(35, 33, 33),0 0 0 3px grey,0 0 0 4px rgb(35, 33, 33),0 0 0 6px grey,0 0 0 7px rgb(35, 33, 33),0 0 0 9px grey,0 0 0 10px rgb(35, 33, 33),0 0 0 12px grey,0 0 0 13px rgb(35, 33, 33),0 0 0 15px grey,0 0 0 16px rgb(35, 33, 33);
